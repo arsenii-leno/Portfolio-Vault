@@ -1,0 +1,12 @@
+{
+  "name": "Debug C on macOS",
+  "type": "cppdbg",
+  "request": "launch",
+  "program": "/Users/arsenlenyo/FIIT/Proced_prog/Cfiles/projekt/a.out",
+  "args": [],
+  "stopAtEntry": false,
+  "cwd": "${workspaceFolder}",
+  "environment": [],
+  "externalConsole": false,
+  "MIMode": "lldb"
+}
